@@ -1,0 +1,29 @@
+{
+    "samuelss": {
+      "full_name": "Samuel Santos da Silva",
+      "expertise": [
+        "Systems Administrator",
+        "Web Developer",
+        "Support Ninja"
+      ],
+      "languages": [
+        "Portuguese",
+        "English",
+        "Spanish"
+      ],
+      "abilities": [
+        "Provision, Develop, Deploy, Maintain",
+        "Infrastructure and Networking",
+        "Automation and Scripting",
+        "Operating Systems",
+        "Cloud Computing",
+        "IaaC and Orchestration",
+        "Virtualization and Containers",
+        "Observability",
+        "Incident Resolution",
+        "Efficient Communication",
+        "Fast and Self Learning",
+        "Resilience"
+      ]
+    }
+  }
