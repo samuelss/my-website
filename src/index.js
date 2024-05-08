@@ -55,10 +55,6 @@ document.body.appendChild(codePre);
 
 let words = ["samuelss","full_name","expertise","languages","abilities", "contact"];
 
-let strRegX = "";
-
-
-
 function colorOn(){
 
   let str = codePre.innerHTML;
